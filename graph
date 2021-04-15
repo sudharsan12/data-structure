@@ -1,0 +1,33 @@
+A graph is a non-linear data structure that consists of finite set of vertices(nodes)
+and a set of edges connecting them.
+         A---------------B
+         |\               | \
+         |  \             |  \
+         |    \           |   E
+         |       \        |  /
+         |          \     | /
+         C---------------D
+
+
+  
+vertices - where data is stored ex: A,B,C,D
+Edges- which connect the vertics line b/w the alphabets
+
+application
+
+facebook
+google maps
+flight network
+product recommentation
+
+
+properties of graph
+
+connected/disconnected graph
+directed/undirected
+weighted graph
+cyclic/Acyclic graph
+dense/sparse graph
+simple graph
+complete graph
+strongly conneted graph
